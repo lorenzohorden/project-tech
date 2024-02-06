@@ -10,4 +10,6 @@ Er worden gedurende het project twee verbredingstrajecten aangeboden. Studenten 
 
 ## license
 
-Voor mijn gehele project geld de [MIT] [license]
+Voor mijn gehele project geld de [MIT]
+
+[mit]: license
